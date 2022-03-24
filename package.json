@@ -1,0 +1,23 @@
+{
+  "name": "practica-calidad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuletsy/practica-calidad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuletsy/practica-calidad/issues"
+  },
+  "homepage": "https://github.com/yuletsy/practica-calidad#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
